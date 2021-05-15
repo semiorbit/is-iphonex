@@ -1,0 +1,22 @@
+{
+  "name": "@semiorbit/is-iphonex",
+  "version": "1.0.2",
+  "description": "Checks if iPhone has a notch (iPhoneX or later...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semiorbit/is-iphonex.git"
+  },
+  "keywords": [
+    "notch",
+    "iphone",
+    "ios",
+    "iPhoneX"
+  ],
+  "author": "Ibrahim Khalil Khalbous",
+  "license": "MIT",
+  "homepage": "https://github.com/semiorbit/is-iphonex#readme"
+}
