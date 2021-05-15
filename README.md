@@ -26,3 +26,7 @@ const Test = props => {
 
 export default Test;
 ```
+
+## License
+
+MIT
